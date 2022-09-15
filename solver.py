@@ -147,4 +147,4 @@ class Solver:
                 print("> All images found!")
                 break
         
-        print(found)
+        return found
